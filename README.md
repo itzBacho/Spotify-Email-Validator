@@ -8,3 +8,5 @@ To use the script, you need to provide an email list and a list of HTTP proxies.
 
 Please note that the script is designed for educational purposes. 
 If you have any questions or need assistance, you can contact @LARRAVELL on Telegram.
+
+Python Script Compiled To EXE!
